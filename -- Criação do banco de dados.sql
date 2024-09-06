@@ -1,4 +1,3 @@
-
 -- Criação da tabela Books (Livros)
 CREATE TABLE IF NOT EXISTS Books (
     book_id INT AUTO_INCREMENT PRIMARY KEY,
