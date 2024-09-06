@@ -1,5 +1,10 @@
 Simulador de Biblioteca Telos
-Objetivo
+
+
+
+
+Objetivo.
+
 O Simulador de Biblioteca Telos é um sistema para gerenciar uma biblioteca de forma simples.
 
 Funcionalidades
