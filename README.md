@@ -1,4 +1,4 @@
-Simulador de Biblioteca Telos
+Simulador de Biblioteca Télos
 
 
 
